@@ -32,7 +32,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>Vaishali Parab</dd>
 <dt>University</dt>
 <dd>KLE Dr.ms sheshgiri college of engineering and technology</dd>
-<dt>Portfolio Topic/Domain</dt>
+<dt>/Domain</dt>
 <dd>Google</dd>
 </dl>
 
