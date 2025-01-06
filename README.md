@@ -29,7 +29,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>SRN</dt>
 <dd>02fe23bcs181</dd>
 <dt>Course Instructor</dt>
-<dd>Vaishali Parag</dd>
+<dd>Vaishali Parab</dd>
 <dt>University</dt>
 <dd>KLE Dr.ms sheshgiri college of engineering and technology</dd>
 <dt>Portfolio Topic/Domain</dt>
