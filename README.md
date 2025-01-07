@@ -15,7 +15,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/your-github-Deepakalmath616)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/deepa-kalmath-a696072a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ## Portfolio Topic
 
@@ -37,5 +37,5 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 </dl>
 
 <br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
->
+
+
