@@ -1,7 +1,7 @@
 # Sugarcane management system.github.io
 ## Portfolio
 
-### Hello, I'm [Deepa kalmath] 👋
+### Hello, I'm Deepa kalmath 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
